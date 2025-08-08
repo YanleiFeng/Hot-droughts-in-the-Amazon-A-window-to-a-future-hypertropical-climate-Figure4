@@ -40,7 +40,6 @@ Analyzes the year-by-year trend in hypertropical land area under different SSPs 
 Generates a global map showing model agreement on where hypertropical regions are projected to occur under future scenarios.
 
 ---
-
 ## Notes
 
 - Make sure all NetCDF files are regridded to the same spatial resolution before analysis.
