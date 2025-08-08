@@ -1,8 +1,8 @@
 
 # Reproducing Figure 4 (Panels a–c)
 
-This repository contains the analysis code and workflows to generate **Figure 4a**, **4b**, and **4c** from the paper titled "Hot droughts in the Amazon:
-A window to a future hypertropical climate".
+This repository contains the analysis code and workflows to generate **Figure 4a**, **4b**, and **4c** from the paper titled Hot droughts in the Amazon:
+A window to a future hypertropical climate (Chambers et al. 2025).
 
 ---
 
